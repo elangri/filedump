@@ -1,0 +1,6 @@
+tftp install --sudo apt-get install xinetd tftpd tftp
+		place tftp file in /etc/xinetd.d
+
+ftp install --sudo apt-get install vsftpd
+	replace vsftpd.conf file in /etc/
+
