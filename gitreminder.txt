@@ -1,0 +1,4 @@
+git add <file>
+git commit -m <comment>
+gitpush alias <git push origin master>
+
